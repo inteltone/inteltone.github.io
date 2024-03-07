@@ -22,8 +22,11 @@ body {
   font-family: var(--ff-prim);
 }
 
-.qr {
+main {
   inline-size: min(320px, 100%);
+}
+
+.qr {
   padding: 16px 16px 40px;
   background-color: white;
   text-align: center;
